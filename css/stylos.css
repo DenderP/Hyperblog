@@ -4,7 +4,6 @@ body {
     font-family: "Arial";
     margin: 0;
     padding: 0;
-
 }
 
 #container {
@@ -17,4 +16,9 @@ body {
 
 #container h1 {
     font-size: 20px;
+    
+}
+
+#container p {
+    font-style: italic;
 }
